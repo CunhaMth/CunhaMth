@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://es.vecteezy.com/fotos-gratis/programadores/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://es.vecteezy.com/fotos-gratis/programadores/.png>
 ">
-  <source media="(prefers-color-scheme: light)" srcset="https://pt.dreamstime.com/rede-social-em-uma-colorida-do-sum%C3%A1rio-claro-fundo-projeto-liso-de-comunica%C3%A7%C3%A3o-vetor-image125933842">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://pt.dreamstime.com/rede-social-em-uma-colorida-do-sum%C3%A1rio-claro-fundo-projeto-liso-de-comunica%C3%A7%C3%A3o-vetor-image125933842.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://blog.casadodesenvolvedor.com.br/equipe-de-desenvolvimento-de-software-funcoes-responsabilidades/.png">
 </picture>
 
