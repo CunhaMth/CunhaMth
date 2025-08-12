@@ -32,9 +32,13 @@ Olá, eu sou Matheus. Você pode me reconhecer como Herói aqui no Github.
 | 3| Escutar Música|
 
 <details open>
-<summary>Meus Hobbies Principais</summary>
+<summary>Meus Principais passatempos</summary>
 
-SUA MESA
+  | Classificação | HOBBIES |
+|-----:|---------------|
+| 1| Jogar Video-game |
+| 2| Programar |
+| 3| Escutar Música|
 
 </details>
 
