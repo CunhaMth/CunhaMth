@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://br.pinterest.com/pin/592716000996140792/">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.dailyrandomphoto.com/p/2025/2025-08-12/">
 ">
   <source media="(prefers-color-scheme: light)" srcset="https://br.pinterest.com/pin/17170042322547122/">
   <img alt="Shows the flames in light mode and aquaman in dark mode." src="https://github.com/CunhaMth/CunhaMth/edit/main/README.md">
