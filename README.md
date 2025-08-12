@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 Olá, eu sou Matheus. Você pode me reconhecer como Herói aqui no Github.
 
-| Classificação | HOBBIES |
+| Classificação | Códigos |
 |-----:|---------------|
-| 1| Jogar Video-game |
-| 2| Programar |
-| 3| Escutar Música|
+| 1| HTML |
+| 2| CSS |
+| 3| Java|
 
 <details open>
 <summary>Meus Principais passatempos</summary>
