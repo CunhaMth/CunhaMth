@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://unsplash.com/pt-br/fotografias/uma-vela-acesa-no-escuro-com-um-fundo-preto-PRYGqrF06zU"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://br.pinterest.com/pin/592716000996140792/">
 ">
-  <source media="(prefers-color-scheme: light)" srcset="https://imgs.search.brave.com/YMjtiCMSccb_f87MdC6yNFuZ2KMcO8jbqeryosQl5yk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMz/NjI1MjczL2VzL2Zv/dG8vYmxhbmNvLWRl/LXZlbGEuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPThsVlZo/dkc1bGlweHdRNkt0/c2FtUzQ2aWhObDFG/dkdQelFRbkt0dVNr/RFU9">
-  <img alt="Shows a lit candle in light mode and lit candle in dark mode." src="https://search.brave.com/images?q=vela">
+  <source media="(prefers-color-scheme: light)" srcset="https://br.pinterest.com/pin/17170042322547122/">
+  <img alt="Shows the flames in light mode and aquaman in dark mode." src="https://github.com/CunhaMth/CunhaMth/edit/main/README.md">
 </picture>
 
