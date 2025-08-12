@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## About Me
+## Sobre mim
 
 Olá, eu sou Matheus. Você pode me reconhecer como Herói aqui no Github.
 
