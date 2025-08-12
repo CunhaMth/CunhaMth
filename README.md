@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.dailyrandomphoto.com/p/2025/2025-08-12/">
 ">
-  <source media="(prefers-color-scheme: light)" srcset="https://br.pinterest.com/pin/17170042322547122/">
-  <img alt="Shows the flames in light mode and aquaman in dark mode." src="https://github.com/CunhaMth/CunhaMth/edit/main/README.md">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png">
+  <img alt="Provavelmente seja isso que você queira ver" src="https://github.com/CunhaMth/CunhaMth/edit/main/README.md">
 </picture>
 
 ## About Me
