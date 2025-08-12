@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Olá, eu sou Matheus. Você pode me reconhecer como herói do GitHub.
+Olá, eu sou Matheus. Você pode me reconhecer como Herói aqui no Github.
 
 | Classificação | HOBBIES |
 |-----:|---------------|
