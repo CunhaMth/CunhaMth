@@ -21,3 +21,21 @@ Here are some ideas to get you started:
   <img alt="Shows the flames in light mode and aquaman in dark mode." src="https://github.com/CunhaMth/CunhaMth/edit/main/README.md">
 </picture>
 
+## About Me
+
+Olá, eu sou Matheus. Você pode me reconhecer como herói do GitHub.
+
+| Classificação | HOBBIES |
+|-----:|---------------|
+| 1| Jogar Video-game |
+| 2| Programar |
+| 3| Escutar Música|
+
+<details open>
+<summary>Meus Hobbies Principais</summary>
+
+SUA MESA
+
+</details>
+
+
