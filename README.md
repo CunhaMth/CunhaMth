@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="![Image](https://github.com/user-attachments/assets/04233519-716e-4926-bad1-1d5bba4aebec)">
-">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png">
-  <img alt="Provavelmente seja isso que você queira ver" src="https://github.com/CunhaMth/CunhaMth/edit/main/README.md">
-</picture>
+<div align="center">
+<img src="![Image](https://github.com/user-attachments/assets/04233519-716e-4926-bad1-1d5bba4aebec)" />
+</div>
 
 ## About Me
 
