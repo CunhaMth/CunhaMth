@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="![Image](https://github.com/user-attachments/assets/04233519-716e-4926-bad1-1d5bba4aebec)" />
+
+
+![Light mode](https://github.com/user-attachments/assets/f3a8b072-9034-4cbe-95ee-1fe46daeb2a0) 
+
+![Dark mode](https://github.com/user-attachments/assets/22fc33f8-0608-49a4-85be-06b5f1f58078)
+
 </div>
 
 ## About Me
