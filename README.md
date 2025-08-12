@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://es.vecteezy.com/fotos-gratis/programadores/.png>
+  <source media="(prefers-color-scheme: dark)" srcset="https://unsplash.com/pt-br/fotografias/uma-vela-acesa-no-escuro-com-um-fundo-preto-PRYGqrF06zU"/>
 ">
-  <source media="(prefers-color-scheme: light)" srcset="https://pt.dreamstime.com/rede-social-em-uma-colorida-do-sum%C3%A1rio-claro-fundo-projeto-liso-de-comunica%C3%A7%C3%A3o-vetor-image125933842.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://blog.casadodesenvolvedor.com.br/equipe-de-desenvolvimento-de-software-funcoes-responsabilidades/.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://imgs.search.brave.com/YMjtiCMSccb_f87MdC6yNFuZ2KMcO8jbqeryosQl5yk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMz/NjI1MjczL2VzL2Zv/dG8vYmxhbmNvLWRl/LXZlbGEuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPThsVlZo/dkc1bGlweHdRNkt0/c2FtUzQ2aWhObDFG/dkdQelFRbkt0dVNr/RFU9">
+  <img alt="Shows a lit candle in light mode and lit candle in dark mode." src="https://search.brave.com/images?q=vela">
 </picture>
 
