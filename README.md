@@ -14,6 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <picture>
+    <source 
+      srcset="SUA_URL_RAW_DO_SURFISTA_DARK_AQUI" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="SUA_URL_RAW_DO_FIRESTORM_LIGHT_AQUI" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="SUA_URL_RAW_DO_FIRESTORM_LIGHT_AQUI" 
+      alt="Herói cósmico - Surfista no escuro, Fogo no claro"
+      width="400"
+      loading="lazy"
+    />
+  </picture>
+</p>
+
 ## Sobre mim
 
 Olá, eu sou Matheus. Você pode me reconhecer como Herói aqui no Github.
