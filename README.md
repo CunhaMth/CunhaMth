@@ -15,25 +15,29 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <!-- ADICIONA ESTA LINHA ABAIXO -->
-    <source 
-      srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
-      media="(prefers-color-scheme: light)"
-    />
-    <!-- ====================== -->
-    <img 
-      src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
-      alt="Herói cósmico" 
-      width="550"
-      style="border-radius: 24px; box-shadow: 0 12px 48px rgba(0,0,0,0.6);"
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
+       alt="Herói cósmico" 
+       width="550"
+       style="border-radius:24px; box-shadow:0 12px 48px rgba(0,0,0,0.6);"
+  />
+  <img src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png" 
+       alt="Herói cósmico" 
+       width="550"
+       style="border-radius:24px; box-shadow:0 12px 48px rgba(0,0,0,0.6); display:none;"
+       class="dark"
+  />
 </p>
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    img:not(.dark) { display: none !important; }
+    img.dark { display: block !important; }
+  }
+  @media (prefers-color-scheme: light) {
+    img.dark { display: none !important; }
+    img:not(.dark) { display: block !important; }
+  }
+</style>
 
 ## Sobre mim
 
