@@ -14,22 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img 
-    id="hero-image"
-    src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png"
-    srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png"
-    media="(prefers-color-scheme: dark)"
-    alt="Herói cósmico"
-    width="400"
-    style="
-      border-radius: 16px;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-      transition: transform 0.3s ease;
-    "
-    onerror="this.src='https://via.placeholder.com/400x400/gray?text=Herói+Carregando';"
-  />
-</div>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
+      alt="Herói cósmico"
+      width="500"
+      style="border-radius:20px; box-shadow:0 10px 40px rgba(0,0,0,0.5);"
+    />
+  </picture>
+</p>
 
 ## Sobre mim
 
