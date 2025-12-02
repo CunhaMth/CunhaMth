@@ -14,24 +14,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="SUA_URL_RAW_DO_SURFISTA_DARK_AQUI" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="SUA_URL_RAW_DO_FIRESTORM_LIGHT_AQUI" 
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      src="SUA_URL_RAW_DO_FIRESTORM_LIGHT_AQUI" 
-      alt="Herói cósmico - Surfista no escuro, Fogo no claro"
-      width="400"
-      loading="lazy"
-    />
-  </picture>
-</p>
+<div align="center">
+  <img 
+    id="hero-image"
+    src="SUA_URL_RAW_DO_FIRESTORM_LIGHT_AQUI"
+    srcset="SUA_URL_RAW_DO_SURFISTA_DARK_AQUI 1x"
+    media="(prefers-color-scheme: dark)"
+    alt="Herói cósmico"
+    width="400"
+    style="
+      border-radius: 16px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease;
+    "
+    onerror="this.src='https://via.placeholder.com/400x400/gray?text=Herói+Carregando';"
+  />
+</div>
+
+<script>
+  // Pequeno JS pra forçar a troca (GitHub permite JS básico em alguns casos)
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.getElementById('hero-image').src = 'SUA_URL_RAW_DO_SURFISTA_DARK_AQUI';
+  }
+</script>
 
 ## Sobre mim
 
