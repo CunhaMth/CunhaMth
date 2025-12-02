@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img 
     id="hero-image"
-    src="SUA_URL_RAW_DO_FIRESTORM_LIGHT_AQUI"
-    srcset="SUA_URL_RAW_DO_SURFISTA_DARK_AQUI 1x"
+    src="(https://github.com/user-attachments/assets/22fc33f8-0608-49a4-85be-06b5f1f58078)"
+    srcset="(https://github.com/user-attachments/assets/f3a8b072-9034-4cbe-95ee-1fe46daeb2a0)"
     media="(prefers-color-scheme: dark)"
     alt="Herói cósmico"
     width="400"
