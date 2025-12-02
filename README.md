@@ -20,6 +20,12 @@ Here are some ideas to get you started:
       srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png" 
       media="(prefers-color-scheme: dark)"
     />
+    <!-- ADICIONA ESTA LINHA ABAIXO -->
+    <source 
+      srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- ====================== -->
     <img 
       src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
       alt="Herói cósmico" 
