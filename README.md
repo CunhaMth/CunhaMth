@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <p align="center">
   <picture>
     <source 
-        srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/surfista-prateado-dark.png" 
+        srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png" 
         media="(prefers-color-scheme: dark)" />
     
     <source 
-        srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/homem-de-fogo-light.png" 
+        srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
         media="(prefers-color-scheme: light)" />
         
     <img 
-        src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/homem-de-fogo-light.png" 
+        src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
         alt="Mercii Classic" 
         style="clip-path: circle(50%); border-radius: 26px; box-shadow: 0 12px 40px rgb(0,0,0,0.4);" />
   </picture>
