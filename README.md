@@ -16,16 +16,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <picture>
-    <source 
-      srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" 
-      alt="Herói cósmico"
-      width="500"
-      style="border-radius:20px; box-shadow:0 10px 40px rgba(0,0,0,0.5);"
-    />
+    <source srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" alt="Herói cósmico" width="500" style="border-radius:20px; box-shadow:0 10px 40px rgba(0,0,0,0.5);">
   </picture>
 </p>
 
