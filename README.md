@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-
-
-![Light mode](https://github.com/user-attachments/assets/f3a8b072-9034-4cbe-95ee-1fe46daeb2a0) 
-
-![Dark mode](https://github.com/user-attachments/assets/22fc33f8-0608-49a4-85be-06b5f1f58078)
-
-</div>
-
 ## Sobre mim
 
 Olá, eu sou Matheus. Você pode me reconhecer como Herói aqui no Github.
