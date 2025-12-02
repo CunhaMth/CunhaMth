@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img 
     id="hero-image"
-    src="(https://github.com/user-attachments/assets/22fc33f8-0608-49a4-85be-06b5f1f58078)"
-    srcset="(https://github.com/user-attachments/assets/f3a8b072-9034-4cbe-95ee-1fe46daeb2a0)"
+    src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/surfista-prateado-dark.png"
+    srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png"
     media="(prefers-color-scheme: dark)"
     alt="Herói cósmico"
     width="400"
@@ -30,13 +30,6 @@ Here are some ideas to get you started:
     onerror="this.src='https://via.placeholder.com/400x400/gray?text=Herói+Carregando';"
   />
 </div>
-
-<script>
-  // Pequeno JS pra forçar a troca (GitHub permite JS básico em alguns casos)
-  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    document.getElementById('hero-image').src = 'SUA_URL_RAW_DO_SURFISTA_DARK_AQUI';
-  }
-</script>
 
 ## Sobre mim
 
