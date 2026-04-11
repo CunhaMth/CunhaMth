@@ -3,7 +3,7 @@
 <p align="center">
   <picture>
     <source srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/surfista-prateado-dark.png" media="(prefers-color-scheme: dark)" />
-    <img src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/assets/homem-de-fogo-light.png" alt="Mercii Classic" width="200" />
+    <img src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/homem-de-fogo-light.png" alt="Mercii Classic" width="200" />
   </picture>
 </p>
 
