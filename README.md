@@ -2,9 +2,8 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://unsplash.com/pt-br/fotografias/o-homem-aranha-balanca-por-uma-cidade-turva-e-escura-GYbsi9Mm_R8"(prefers-color-scheme: dark)" />
+    <source srcset="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=400" media="(prefers-color-scheme: dark)" />
     <img src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=400" alt="Banner" width="400" />
-  </picture>
 </p>
 
 ## Sobre mim
