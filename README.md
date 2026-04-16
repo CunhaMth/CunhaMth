@@ -53,14 +53,6 @@ Sou o **Matheus**, estudante de Tecnologia da Informação apaixonado por desenv
  
 ---
  
-## 📫 Entre em contato
- 
-<div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-CunhaMth-181717?style=for-the-badge&logo=github)](https://github.com/CunhaMth)
- 
-</div>
----
- 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CunhaMth&color=6A5ACD&style=flat-square&label=Visitantes" alt="Profile views" />
 </div>
