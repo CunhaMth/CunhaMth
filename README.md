@@ -1,42 +1,62 @@
-## Olá pessoal 👋
-
-<p align="center">
-  <picture>
-    <source srcset="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=400" media="(prefers-color-scheme: dark)" />
-    <img src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=400" alt="Banner" width="400" />
-</p>
-
-## Sobre mim
-
-Sou o Matheus, estudante de Tecnologia da Informação apaixonado por desenvolvimento web e soluções criativas com código. Aqui no GitHub você pode me encontrar como Herói — construindo projetos, aprendendo novas tecnologias e evoluindo a cada commit.
-
-🎯 Focado em desenvolvimento front-end e back-end
-📚 Sempre aprendendo e explorando novas linguagens
-🎮 Nas horas vagas: video games e muito código
-
-| Classificação | Códigos |
-|-----:|---------------|
-| 1| HTML |
-| 2| CSS |
-| 3| Java|
-| 4| Python|
-| 5| SQL|
-
-
-
-<details open>
-<summary>Meus Principais passatempos</summary>
-
-| Classificação | HOBBIES |
-|-----:|---------------|
-| 1| Jogar Video-game |
-| 2| Programar |
-| 3| Escutar Música|
-
-</details>
-
+# Olá, eu sou o Matheus! 👋
+ 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Estudante+de+TI;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</div>
 ---
-
-> O mundo seria um lugar melhor, se as pessoas fossem mais empáticas.
-
-- CunhaMth
+ 
+## 👨‍💻 Sobre mim
+ 
+Sou o **Matheus**, estudante de Tecnologia da Informação apaixonado por desenvolvimento web e soluções criativas com código. Aqui no GitHub você pode me encontrar como **Herói** — construindo projetos, aprendendo novas tecnologias e evoluindo a cada commit.
+ 
+- 🎯 Focado em **desenvolvimento front-end e back-end**
+- 📚 Sempre aprendendo e explorando novas linguagens
+- 🎮 Nas horas vagas: video games e muito código
+---
+ 
+## 🚀 Tecnologias & Ferramentas
+ 
+<div align="center">
+| # | Linguagem | Nível |
+|---|-----------|-------|
+| 1 | HTML5 | ⭐⭐⭐⭐⭐ |
+| 2 | CSS3 | ⭐⭐⭐⭐⭐ |
+| 3 | Java | ⭐⭐⭐ |
+| 4 | Python | ⭐⭐⭐ |
+| 5 | SQL | ⭐⭐⭐ |
+ 
+</div>
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CunhaMth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CunhaMth&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+---
+ 
+## 🎮 Meus Hobbies
+ 
+```
+🎮 Jogar Video-game
+💻 Programar & criar projetos pessoais
+📖 Estudar novas tecnologias
+```
+ 
+---
+ 
+## 📫 Entre em contato
+ 
+<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-CunhaMth-181717?style=for-the-badge&logo=github)](https://github.com/CunhaMth)
+ 
+</div>
+---
+ 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CunhaMth&color=6A5ACD&style=flat-square&label=Visitantes" alt="Profile views" />
+</div>
+<div align="center">
+  <i>"Cada linha de código é um passo a mais rumo ao próximo nível."</i>
+</div>
