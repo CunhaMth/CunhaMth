@@ -1,6 +1,13 @@
 # Olá, eu sou o Matheus! 👋
  
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/images/stars.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/images/sunset.jpg">
+  <img alt="Banner" src="https://raw.githubusercontent.com/CunhaMth/CunhaMth/main/images/stars.jpg" width="100%">
+</picture>
+<br><br>
+ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Estudante+de+TI;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 ---
