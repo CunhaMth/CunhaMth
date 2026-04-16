@@ -8,7 +8,11 @@
 
 ## Sobre mim
 
-Olá, eu sou Matheus. Você pode me reconhecer como Herói aqui no Github.
+Sou o Matheus, estudante de Tecnologia da Informação apaixonado por desenvolvimento web e soluções criativas com código. Aqui no GitHub você pode me encontrar como Herói — construindo projetos, aprendendo novas tecnologias e evoluindo a cada commit.
+
+🎯 Focado em desenvolvimento front-end e back-end
+📚 Sempre aprendendo e explorando novas linguagens
+🎮 Nas horas vagas: video games e muito código
 
 | Classificação | Códigos |
 |-----:|---------------|
