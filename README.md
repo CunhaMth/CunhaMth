@@ -30,7 +30,7 @@ Sou o **Matheus**, estudante de Tecnologia da Informação apaixonado por desenv
 | 2 | CSS3 | ⭐⭐⭐⭐⭐ |
 | 3 | Java | ⭐⭐⭐ |
 | 4 | Python | ⭐⭐⭐ |
-| 5 | SQL | ⭐⭐⭐ |
+| 5 | JSON | ⭐⭐⭐ |
  
 </div>
 ---
